@@ -12,6 +12,5 @@ public class LoginController {
     public String login(){
         return "Logged in successfully";
 
-        
     }
 }
