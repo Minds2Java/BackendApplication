@@ -11,5 +11,7 @@ public class LoginController {
     @GetMapping
     public String login(){
         return "Logged in successfully";
+
+        
     }
 }
